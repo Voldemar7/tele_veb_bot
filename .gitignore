@@ -1,0 +1,8 @@
+.env
+
+.mypy_cache/
+.idea/
+venv/
+__pycache__/
+*.db
+*.sqlite3
